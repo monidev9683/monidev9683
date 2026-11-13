@@ -8,3 +8,13 @@ et qui éveille un intérêt bien plus grand que je ne l'aurais imaginé!
 *Ce qui me plaît?*
 
 Comprendre comment les choses fonctionnent, expérimenter, chercher des solutions et voir une idée prendre forme.
+
+Chaque projet est une nouvelle occaqion d'apprendre, de créer et d'évoluer.
+
+*Et mon niveau aujourd'hui?*
+
+Hier, je découvrais. Aujourd'hui je construit.
+
+*Et demain?*
+
+
