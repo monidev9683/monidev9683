@@ -1,10 +1,11 @@
 ![Bannière de Morgane](banniere-%20github.png)
 
-## A propos de moi
+<h2>💻 &lt;&gt; HELLO WORLD !</h2>
+<h3>Moi, c'est Morgane</h3>
 
-En reconversion professsionnelle dans le développement web, 
+<p>En reconversion professsionnelle dans le développement web, 
 j'explore un domaine qui m'était jusqu'ici inconnu
-et qui éveille un intérêt bien plus grand que je ne l'aurais imaginé!
+et qui éveille un intérêt bien plus grand que je ne l'aurais imaginé!</p>
 
 ### *Ce qui me plaît?* ###
 Comprendre comment les choses fonctionnent, expérimenter,
