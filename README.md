@@ -2,16 +2,16 @@
 
 ## A propos de moi
 
-En reconversion professsionnelle dans le développement web, j'explore un domaine qui m'était jusqu'ici inconnu
+En reconversion professsionnelle dans le développement web, 
+j'explore un domaine qui m'était jusqu'ici inconnu
 et qui éveille un intérêt bien plus grand que je ne l'aurais imaginé!
 
-*Ce qui me plaît?*
-
-Comprendre comment les choses fonctionnent, expérimenter, chercher des solutions et voir une idée prendre forme.
-
+### *Ce qui me plaît?* ###
+Comprendre comment les choses fonctionnent, expérimenter,
+chercher des solutions et donner vie à des idées à travers le code.
 Chaque projet est une nouvelle occaqion d'apprendre, de créer et d'évoluer.
 
-*Et mon niveau aujourd'hui?*
+# *Et mon niveau aujourd'hui?* #
 
 Hier, je découvrais. Aujourd'hui je construit.
 
