@@ -16,5 +16,8 @@ Chaque projet est une nouvelle occaqion d'apprendre, de créer et d'évoluer.
 Hier, je découvrais. Aujourd'hui je construit.
 
 *Et demain?*
+On verra jusqu'où j'irai!
+
+## **Mon niveau d'aujourd'hui n'est que le point de départ de demain.** ##
 
 
